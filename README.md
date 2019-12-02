@@ -1,4 +1,4 @@
-#sh_messagebox
+# sh_messagebox
 Module sh_messagebox defines sh_messagebox as alternative to tk.messagebo for Python programs
 Extentions vs tk.messagebox:
 
